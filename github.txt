@@ -1,0 +1,10 @@
+student_profile.docx
+
+STUDENT PROFILE
+
+NAME : Deep pastagia
+program:B.tech IT
+semester: 1
+
+About me:
+I am a first year student interested in technology.
